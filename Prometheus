@@ -1,2 +1,5 @@
 https://www.youtube.com/watch?v=9joXN3ipABg
 https://www.youtube.com/watch?v=h4Sl21AKiDg&t=579s
+retrieval + storage + HTTP server
+pulls from HTTP endpoints (hostaddress/metrics)
+stored on Disk (HDD/SSD) + Remote Storage Systems
