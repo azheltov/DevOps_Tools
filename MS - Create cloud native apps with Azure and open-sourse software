@@ -64,3 +64,33 @@ Describe how to process IoT telemetry10 min
 Exercise - Implement processing of IoT telemetry10 min
 Knowledge check3 min
 Summary2 min
+
+Learning objectives
+After completing this module, you’ll know more about how to:
+
+·        Describe the role of Azure IoT Central in the context of cloud-native applications
+
+·        Set up Azure IoT Central
+
+·        Process IoT telemetry by using Azure IoT Central
+
+ContinueAdd
+
+Prerequisites
+·        Basic understanding of cloud computing
+
+·        Basic familiarity with Azure
+
+·        Basic familiarity with programming concepts
+
+This module is part of these learning paths
+Create cloud native apps with Azure and open-source software
+Introduction2 min
+Describe Azure IoT Central10 min
+Exercise - Set up Azure IoT Central10 min
+Describe how to process IoT telemetry10 min
+Exercise - Implement processing of IoT telemetry10 min
+Knowledge check3 min
+Summary2 min
+
+
