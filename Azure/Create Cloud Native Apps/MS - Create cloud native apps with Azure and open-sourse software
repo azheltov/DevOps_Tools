@@ -235,3 +235,25 @@ Exercise - Configure CI/CD for IoT Edge applications25 min
 Knowledge check3 min
 Summary
 
+---
+
+ 
+
+Authenticate and authorize multi-tenant apps using Microsoft Entra ID
+
+1 hr 43 min remaining
+Module
+0 of 9 units completed
+Microsoft Entra ID enables you to improve the functionality of cloud-native apps in multitenant scenarios.
+
+Overview
+
+Introduction3 min
+Define Microsoft Entra ID12 min
+Exercise - Set up Microsoft Entra ID15 min
+Microsoft Entra app development3 min
+Exercise - Implement multitenant data30 min
+Manage and monitor Microsoft Entra apps10 min
+Exercise - Integrate Next.js web app with Azure AD25 min
+Knowledge check3 min
+Summary2 min
