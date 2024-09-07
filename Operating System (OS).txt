@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=9GDX-IyZ_C8
+
+Definition of an Operating System (OS): Manages hardware and software resources, providing an interface for users.
+
+Functions of an OS:
+Process management
+Memory management
+File system management
+Security and access control
+
+Types of Operating Systems:
+Single-user and Multi-user OS
+Real-time OS
+Embedded OS
+
+Examples: Windows, Linux, macOS.
